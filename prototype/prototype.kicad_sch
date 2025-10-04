@@ -2,8 +2,13 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 98a2ab72-9fb2-4720-b1da-4b6ae03a7c93)
+	(uuid "98a2ab72-9fb2-4720-b1da-4b6ae03a7c93")
 	(paper "A4")
+	(title_block
+		(title "UniSlider Prototype")
+		(date "2025-10-05")
+		(company "Ryoga.exe")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
